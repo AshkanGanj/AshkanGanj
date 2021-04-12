@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning and deep learning
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ganj.ashkan79@gmail.com
+- 📫 How to reach me AshkanGanj@gmail.com
 
 <!---
 Ashkan-Agc/Ashkan-Agc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
