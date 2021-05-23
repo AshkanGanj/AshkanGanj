@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashkan Ganj
 - 👀 I’m interested in Machine learning and deep learning
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning Machine learning and Deep learning
 - 📫 Mail me AshkanGanj@gmail.com
 
 <!---
