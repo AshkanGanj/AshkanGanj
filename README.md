@@ -7,3 +7,11 @@
 Ashkan-Agc/Ashkan-Agc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- ![AshkanGanj stats](https://github-readme-stats.vercel.app/api?username=AshkanGanj&show_icons=false&theme=radical&count_private=true) -->
+
+![AshkanGanj stats](https://github-readme-stats.vercel.app/api?username=AshkanGanj)
+
+<!-- ![AshkanGanj stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AshkanGanj&show_icons=true&theme=radical&layout=compact) -->
+
+<!-- ![](https://komarev.com/ghpvc/?username=AshkanGanj&style=plastic) -->
