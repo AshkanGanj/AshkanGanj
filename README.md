@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ashkan Ganj
-- 👀 I’m interested in Machine learning and deep learning
-- 🌱 I’m currently learning Machine learning and Deep learning
-- 📫 How to reach me: My <a href="https://t.me/ashkan_ganj">Telegram</a> and my <a href="mailto:AshkanGanj@gmail.com">Email</a>
-- 💻 My personal website <a href="https://ashkanganj.github.io/">Link</a>
+- 👋 Hello, my name is Ashkan Ganj.
+👀 I am passionate about system design and computer vision, with a particular interest in exploring the intersection of these fields.
+🌱 Currently, I am focused on applying my expertise in computer vision to create innovative and engaging augmented reality (AR) systems.
+📫 You can easily reach me through my <a href="https://t.me/ashkan_ganj">Telegram</a> or via email at <a href="mailto:AshkanGanj@gmail.com">AshkanGanj@gmail.com</a>.
+💻 To learn more about me and my work, feel free to visit my personal website at <a href="https://ashkanganj.github.io/">https://ashkanganj.github.io/</a>.
 <!---
 Ashkan-Agc/Ashkan-Agc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
